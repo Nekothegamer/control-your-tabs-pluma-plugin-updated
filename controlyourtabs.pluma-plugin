@@ -1,7 +1,7 @@
-[Pluma Plugin]
-Loader=python
+[Plugin]
+Loader=python3
 Module=controlyourtabs
-IAge=2
+IAge=3
 Name=Control Your Tabs
 Description=Switch between tabs using Ctrl-Tab / Ctrl-Shift-Tab and Ctrl-PageUp / Ctrl-PageDown
 Authors=Jeffery To <jeffery.to@gmail.com>
